@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,500&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link.active {
+    color: rgb(0, 213, 255) !important;
+}
